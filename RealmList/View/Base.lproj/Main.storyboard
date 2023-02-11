@@ -107,6 +107,7 @@
                                                 <constraint firstAttribute="trailing" secondItem="Et4-66-Obx" secondAttribute="trailing" constant="10" id="wvL-KC-4Fa"/>
                                             </constraints>
                                         </tableViewCellContentView>
+                                        <color key="tintColor" red="0.47058826679999999" green="0.1607843041" blue="0.18823529780000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <connections>
                                             <outlet property="itemLabel" destination="Et4-66-Obx" id="0gc-nY-GFR"/>
                                         </connections>
